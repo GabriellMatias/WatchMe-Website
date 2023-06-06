@@ -1,6 +1,6 @@
 
 <h1 align="center"> 
-  <img width="150px" src="https://user-images.githubusercontent.com/80908772/194680070-87fbc668-aee7-40d4-98d9-64ba84bf08c5.png"/>
+ <img style="margin-top:10px;" src="https://user-images.githubusercontent.com/80908772/194680083-043faaaa-018c-455b-aff4-92d51b94d5da.png"/>
 </h1>
 <br/>
 
@@ -16,7 +16,7 @@ This is an simple aplication that consist on change the list of movies according
 
 ## :camera: Prints
 <h1 aling="center">
-<img style="margin-top:10px;" src="https://user-images.githubusercontent.com/80908772/194680083-043faaaa-018c-455b-aff4-92d51b94d5da.png"/>
+
 <img style="margin-top:100px;" src="https://user-images.githubusercontent.com/80908772/194680084-f7db1ebb-bc9f-4afa-999e-5637d6855160.png"/>
 <img style="margin-top:10px;" src="https://user-images.githubusercontent.com/80908772/194680085-4ea27672-4bc7-40d0-935e-60e3fbcd79fb.png"/>
 <img style="margin-top:10px;" src="https://user-images.githubusercontent.com/80908772/194680087-5cebb7ca-b725-4c55-947b-1fdbe93ccbf8.png"/>
